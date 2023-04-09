@@ -1,7 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -10,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./preview-img/qr-code-component-preview.png)
 
 ![](./preview-img/qr-code-preview-mobile.png)
-
-
 
 ### Links
 
@@ -26,18 +23,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-
-
 ## Author
 
 - Website - [Sudhanshu Patel](https://sudhanshupatel.vercel.app/)
 - Frontend Mentor - [@Sudhanshu Patel](https://www.frontendmentor.io/profile/sudhanshu287)
 - LinkedIN - [@Sudhanshu Patel](https://linkedin.com/in/sudhanshu287/)
 
-
 ## **Let's Connect 👋**
 
 <div align=center>
+
+  <a href="https://sudhanshupatel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt=Portfolio>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/sudhanshu287" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
