@@ -7,16 +7,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./preview-img/qr-code-preview-mobile.png)
+![](./preview-img/qr-code-component-preview.png)
 
-![](./preview-img/qr-code-preview-desktop.png)
+![](./preview-img/qr-code-preview-mobile.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sudhanshu287/FrontendMentorChallenges/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://qr-code-component-beta-five.vercel.app/)
+- Solution URL: [Add solution URL here](https://github.com/sudhanshu287/qr-code-components)
+- Live Site URL: [Add live site URL here](https://qr-code-components-sage.vercel.app//)
 
 ## My process
 
